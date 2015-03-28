@@ -1,0 +1,97 @@
+# clear screen
+    2  clear
+
+# lists all files
+    3  ls -a
+    4  clear
+    5  ls
+
+# change directory
+    6  cd sea-w26-uge/chrisdavid86
+    7  ls
+
+# change directory to home
+    8  cd
+
+# change directory to home
+    9  cd ~
+   10  cd .
+   11  cd /
+   12  clear
+   13  cd ~
+   14  help cd
+   15  cd
+
+# print working directory
+   16  pwd
+   17  cd /
+   18  pwd
+   19  clear
+   20  pwd
+   21  cd
+   22  clear
+   23  pwd
+   24  ls
+   25  cd "my games"
+   26  cd
+   27  clear
+   28  cd sea-w26-uge/chrisdavid86
+   29  ls
+   30  pwd
+   31  clear
+   32  pwd
+   33  clear
+   34  cd ~
+   35  ls
+   36  cd sea-w26-uge/
+   37  ls
+   38  ls chrisdavid86/
+   39  cd chrisdavid86/
+   40  ls
+   41  clear
+   42  cd ~
+   43  ls
+   44  cd my games
+   45  cd "my games"
+   46  cd
+   47  clear
+   48  pwd
+   49  ls
+   50  cd sendto
+   51  ls
+   52  cd ..
+   53  ls
+   54  cd "my games"
+   55  ls
+   56  cd "Pinball Arcade"/
+   57  ls
+   58  pwd
+   59  cd
+   60  pwd
+   61  clear
+   62  ls chrisdavid86
+   63  clear
+   64  ls sea-w26-uge/chrisdavid86/
+   65  ls /
+   66  clear
+   67  cd .
+   68  ls .
+   69  clear
+   70  cd sea-w26-uge
+   71  ls .
+   72  clear
+   73  subl .
+   74  clear
+   75  history
+   76  clear
+   77  history
+   78  history | less
+   79  histor | less
+   80  history | less
+   81  clear
+   82  clear
+   83  cd
+   84  clear
+   85  history
+   86  clear
+   87  history > moving_around.txt
